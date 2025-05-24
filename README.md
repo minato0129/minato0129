@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# Protopedia
+# 作品一覧(Protopedia)
 - https://protopedia.net/prototyper/gororyo0129
 
 # 作品URL
