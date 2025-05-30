@@ -8,7 +8,7 @@
 - https://meecha.mattuu.com/statics
 - https://github.com/meecha-org
 
-## mackck
+## makeck
 - https://makeck.mattuu.com/app/
 - https://github.com/kousei-s
 
